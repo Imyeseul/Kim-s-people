@@ -1,3 +1,7 @@
+a{
+  color:black;
+  text-decoration: none;
+  }
 h1{
   font-size:45px;
   text-align:center;
@@ -11,8 +15,4 @@ h1{
   text-align:center;
   border-bottom:1px solid;
   font-family:sans-serif;
-  }
-.headline a{
-  color:black;
-  text-decoration:none;
   }
